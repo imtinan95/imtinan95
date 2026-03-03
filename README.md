@@ -26,7 +26,7 @@
 
 📫 How to reach me:
 - GitHub: @imtinan95
-- LinkedIn: https://www.linkedin.com/in/muhammad-imtinan-ul-haq/
+- LinkedIn: https://www.linkedin.com/in/imtinan95/
 
 <!---
 imtinan95/imtinan95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
